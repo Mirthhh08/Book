@@ -22,16 +22,18 @@ Make sure you have the following software installed on your machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Mirthhh08/Book.git
+cd personal-bookshelf
 ```
 
 ### Setup
-Install Dependencies
+Install Dependencies and run the project
 Navigate to the project directory and install the dependencies using npm or Yarn:
 
 ```bash
 npm install
 # or
 yarn install
+
+npm run dev
 ```
